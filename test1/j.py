@@ -1,0 +1,13 @@
+hey
+hi
+hasattr
+hello
+hi
+hi
+hello
+help
+hu
+hir
+him
+his
+UserWarning
